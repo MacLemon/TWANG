@@ -1,0 +1,41 @@
+#+TITLE: 1D-Dungon Manual
+#+OPTIONS: toc:nil
+#+OPTIONS: html-postamble:nil
+
+* Introduction
+
+You are a hero caught in a dungeon full of monsters and lava, maybe like in any other dungeon game. But here the dungeon is one-dimensional. So you can't avoid the creepers, you'll have to fight them with your amazing blue laser sword.
+
+* Control
+
+You are very limited in what you can do. There are only three things for you to do: Moving forward, moving backward and attacking nearby creepers.
+
+** Controller
+
+Your controller is the spring with the glowing knob in front of you. No more.
+
+** Moving
+
+You can move forward by pushing the shoetree away from you and you can move backwards by pulling it towards you.
+
+** Fighting
+
+To attack a monster you'll have to wobble the shoetree sidewards. Just pull it to the left or right and let it go.
+
+* The Map
+
+** Green dot
+
+It's you, the hero of the quest.
+
+** Bright blue dot
+
+Here is your goal. You have to reach it without getting killed by a creeper or the lava.
+
+** yellow/red areas
+
+The floor is lava. Running into Lava (red) will kill you immediately. But you can pass it when the lava recedes (yellow) and you can passt it. Lava is red and receded lava is yellow. You'll spot the difference. Lava will not only kill you but also creepers running into it. So you can use it, to get rid of some of these naughty beasts.
+
+** running blue areas
+
+These things are converyer belts. They can run in both directions. Running in your direction, they'll carry you forwards or speed you up. Running in the opposited direction they'll slow you down or even carry you backwards.
