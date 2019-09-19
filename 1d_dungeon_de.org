@@ -1,0 +1,40 @@
+#+TITLE: 1D-Dungon Anleitung
+#+OPTIONS: toc:nil
+#+OPTIONS: html-postamble:nil
+
+* Einleitung
+
+Du bist 1 Heldlon, gefangen in einem Dungon voller Monster und Lava, wie in vermutlich jedem anderem Dungon-Spiel. Aber dieser Dungon ist eindimensional. Du kannst den Monstern also nicht ausweichen und must dich dem Kampf stellen mit deinem wundervollen blauen Laserschwert.
+
+* Steuerung
+
+Deine Aktionen sind sehr beschränkt. Es gibt nur drei Dinge, die du tun kannst: vorwärts und rückwärts gehen und Monster in deiner Nähe angreifen.
+
+** Controller
+
+Dein Controller ist die Feder vor dir, mit dem leuchtenden Kopf. Nicht mehr und nicht weniger.
+
+** Bewegung
+
+Du kannst vorwärts gehen, in dem du die Feder von dir weg drückst und rückwärts in dem du sie zu dir hin ziehst.
+
+** Angriff
+
+Um ein Monster anzugreifen musst du die Feder seitlich hin- und herwackeln. Zieh ihn am besten nach links oder rechts und lasse sie dann einfach los.
+
+* Die Karte
+
+** Grüner Punkt
+
+Das bist du, das Heldlon des Abenteuers.
+
+** Heller, blauer Punkt
+
+Das ist dein Ziel. Du musst es erreichen ohne von den Monstern oder der Lava getötet zu werden
+
+** Gelbe/Rote Flächen
+
+Der Boden ist Lava. Du stirbst sofort wenn du in die rot-funkelnde Lava hinein läufst. Aber hin und wieder sinkt der Lavapegel etwas und du kannst sie passieren. Du erkennst es daran, dass die Lava dann gelb wird. Du wirst den Unterschied erkennen! Die Lava tötet alles was sie berührt, also nicht nur dich, sondern auch Monster die in sie hinein laufen. Du kannst sie also nutzen um ein paar der lästigen Kreaturen los zu werden.
+
+** Blaue, laufende Flächen
+Dies sind Förderbänder. Es gibt sie in beide Richtungen. Wenn sie in deine Richtung laufen schieben sie dich unaufhaltsam vorwärts bzw. beschleunigen dich. In die andere Richtung verlagsamen sie dich oder schieben dich zurück.
